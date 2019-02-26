@@ -1,0 +1,11 @@
+Pentru a rula acest proiect, se apeleaza din linia de comanda fisieru index.php ruland:
+
+php index.php
+
+Se pot edita constantele din clasa Game\Utils\Constants pentru a altera comportamentul.
+
+Pentru a garanta ca se ating conditiile extreme, se poate edita health-ul minim si maxim sau luck-ul.
+
+Astfel, se vor atinge cele 20 de runde.
+
+Se pot adauga skill-uri noi prin extinderea clasei Skill.

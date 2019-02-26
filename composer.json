@@ -1,0 +1,20 @@
+{
+	"name": "ovidiu/emag",
+	"description": "Emag Game",
+	"keywords": ["orderus", "emagia"],
+	"license": "MIT",
+	"type": "project",
+	"require": {
+
+	},
+	"require-dev": {
+
+	},
+	"autoload": {
+
+		"psr-4": {
+			"Game\\": "src/"
+		}
+	}
+
+}
