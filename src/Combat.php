@@ -18,7 +18,7 @@ class Combat {
 	{
 		if(static::isHeroFaster($hero, $beast))
 		{
-			static::fight($hero,$beast);
+			return static::fight($hero,$beast);
 		}
 		static::fight($beast,$hero);
 	}
